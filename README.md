@@ -1,4 +1,9 @@
 <include a CircleCI status badge, here>
+# Template:
+[![HasanDevOps2003](https://circleci.com/gh/HasanDevOps2003/project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/HasanDevOps2003/project-4/1/workflows/378c2d0f-99cb-4eed-af9d-fff52d075a98)
+
+# Example:
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 ## Project Overview
 
